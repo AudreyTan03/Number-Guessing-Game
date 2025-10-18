@@ -27,4 +27,4 @@ To check:
 wsl -l -v
 
 
-# streak
+# streak ulit
