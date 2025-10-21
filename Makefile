@@ -23,3 +23,6 @@ run: $(PROGRAM)
 
 clean:
 	rm -f $(OBJECT) $(PROGRAM)
+
+
+# stea
