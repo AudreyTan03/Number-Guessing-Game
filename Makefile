@@ -25,4 +25,4 @@ clean:
 	rm -f $(OBJECT) $(PROGRAM)
 
 
-# stea
+# steak lang po sori
